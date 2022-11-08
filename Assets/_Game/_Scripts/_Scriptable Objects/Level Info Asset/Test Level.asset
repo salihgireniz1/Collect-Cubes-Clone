@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 792d3ce932983da479e0502f10ef1215, type: 3}
+  m_Name: Test Level
+  m_EditorClassIdentifier: 
+  TimerAsSeconds: 10
+  levelFountainInfo: {fileID: 11400000, guid: 415847e62b7dbe343966d3e8890725d4, type: 2}
+  levelInfos:
+  - levelImage: {fileID: 21300000, guid: 400251d7656e1ce47a004b8ee3da5390, type: 3}
+    cubeSize: 0.2
+  - levelImage: {fileID: 21300000, guid: a580a22b7129daa459df3761dfea0cca, type: 3}
+    cubeSize: 0.15
+  - levelImage: {fileID: 21300000, guid: a075280d0acb05842a35c50e4ee0bc5d, type: 3}
+    cubeSize: 0.15
+  - levelImage: {fileID: 21300000, guid: b79cc07f7db5bb94da6ef17722b9f4d7, type: 3}
+    cubeSize: 0.2
